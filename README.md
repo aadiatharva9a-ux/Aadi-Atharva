@@ -1,7 +1,6 @@
 Aadi Atharva
 
-Branch: B.Tech (Your Branch Name)
+Branch: B.Tech CSE (Artificial Intelligence & Machine Learning)
 Year: First Year
 
-Hello! I am a first-year B.Tech student who is interested in learning programming and improving my technical skills. I hope to gain knowledge in coding, problem-solving,
-and software development during my academic journey.
+Hello! I am a first-year B.Tech student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. I am interested in learning programming, improving my problem-solving skills, and gaining knowledge about AI, machine learning, and software development. I hope to build useful projects and develop strong technical skills during my academic journey.
